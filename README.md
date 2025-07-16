@@ -46,6 +46,7 @@ Emmanuel Morales
 
 ## ✅ Cómo correr el proyecto
 
-1. Clona el repositorio:
-   git clone https://github.com/Manumora117/analisis-hospitalizaciones-pandemia-cdmx-edomex.git
-3. Abre el archivo `.ipynb` en Jupyter Notebook o VSCode.
+1. Clona el repositorio: git clone https://github.com/Manumora117/analisis-hospitalizaciones-pandemia-cdmx-edomex.git
+2. Abre el archivo `.ipynb` en Jupyter Notebook o VSCode.
+3. Tener Instaladas las librerías de pandas, numpy, matplotlib.pyplot, seaborn y en caso de usarlo en Visual Studio Code, instalar ipykernel, para que lo pueda leer y correr.
+4. RECOMENDACIÓN (Opcional): agregar un entorno virtual.
